@@ -1,0 +1,19 @@
+.class1 {
+    background-color: rgb(247, 100, 124);
+    font-family: "Verdana", "DejaVuSans", sans-serif;
+}
+
+#id1 {
+    color: rgb(53, 53, 255);
+    font-size: 36px;
+}
+
+.class2 {
+    font-size: 24px;
+}
+
+#id2 {
+    background-color: rgb(64, 197, 64);
+    font-size: 24px;
+    font-weight: bold;
+}
